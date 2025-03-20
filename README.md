@@ -14,6 +14,10 @@ Asignación IP).
 
 ## Portafolio Disponible
 - **Analísis de Datos**: https://github.com/AldesQuintero/Analisis-de-Datos
+- **Programación Java**: coming soon / wait ........
+- **Programación Python**: coming soon / wait ......
+- **
+- **
 
 ## Contacto
 - **Email**: aldesquintero@outlook.com
