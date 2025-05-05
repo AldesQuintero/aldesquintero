@@ -13,9 +13,10 @@ portal y configuración de máquinas virtuales.
 Asignación IP). 
 
 ## Portafolio Disponible
-- **Analísis de Datos**: https://github.com/AldesQuintero/Analisis-de-Datos
-- **Programación Java**: https://github.com/AldesQuintero/Dev-BackOffice-Challenge-002-
-- **Programación Python**: coming soon
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Prueba Técnica](https://github.com/AldesQuintero/Dev-BackOffice-Challenge-002-) | Implementación parcial de una prueba técnica con estructura por capas | Java, Spring Boot, MVC |
+---
 
 
 ## Contacto
