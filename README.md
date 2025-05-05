@@ -2,7 +2,7 @@
 ## Sobre mí
 Tengo habilidades en:
 
--  **Lenguajes de programación:** Python (Flask), Java (Spring Boot).
+- **Lenguajes de programación:** Python (Flask), Java (Spring Boot).
 - **Software:** Microsoft Visual Studio Code, IntelliJ IDEA, Virtual Box, Cisco Packet Tracer.
 - **Sistemas Operativos:** Windows, Linux.
 - **Bases de datos:** MySQL, SQL Server, MongoDB.
@@ -14,7 +14,7 @@ Asignación IP).
 
 ## Portafolio Disponible
 
-- **Proyectos Java**
+ Proyectos Java
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Aplicación Web](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb) | Aplicación web, para página base HTML | Java, Spring Boot, HTML |
