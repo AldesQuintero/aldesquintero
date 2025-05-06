@@ -13,7 +13,7 @@ portal y configuración de máquinas virtuales.
 Asignación IP). 
 
 ## Portafolio Disponible
-
+- **Programación**
  Proyectos Java
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
