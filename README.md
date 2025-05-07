@@ -21,6 +21,12 @@ Asignación IP).
 | [Prueba Técnica](https://github.com/AldesQuintero/Dev-BackOffice-Challenge-002-) | Implementación parcial de una prueba técnica con estructura por capas | Java, Spring Boot, MVC |
 ---
 
+ Proyectos Python
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Página Web con Flask](https://github.com/AldesQuintero/Flask-Project-AldesWeb) | Implementación de página web con microframework flask  | Python, Flask, HTML |
+---
+
 
 ## Contacto
 - **Email**: aldesquintero@outlook.com
