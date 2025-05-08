@@ -25,6 +25,7 @@ Asignación IP).
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Página Web con Flask](https://github.com/AldesQuintero/Flask-Project-AldesWeb) | Implementación de página web con microframework flask  | Python, Flask, HTML |
+| [Proyectos Python con API](https://github.com/AldesQuintero/Python-Projects) | Proyectos Python con aplicación de API Rest | Python, API, HTML  |
 ---
 
 
