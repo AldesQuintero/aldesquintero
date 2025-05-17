@@ -2,15 +2,13 @@
 ## Sobre mí
 Tengo habilidades en:
 
-- **Lenguajes de programación:** Python (Flask), Java (Spring Boot).
-- **Software:** Microsoft Visual Studio Code, IntelliJ IDEA, Virtual Box, Cisco Packet Tracer.
-- **Sistemas Operativos:** Windows, Linux.
-- **Bases de datos:** MySQL, SQL Server, MongoDB.
-- **Cloud:** AWS (Intermedio): Configuración de instancias EC2, gestión de S3, Lightsail, Amazon 
-Lambda, configuración de máquinas virtuales y Azure (Básico): Gestión básica de recursos en el 
-portal y configuración de máquinas virtuales. 
-- **Redes y telecomunicaciones:** Configuración de routers y switches (incluyendo VLAN, OSPF, 
-Asignación IP). 
+- **Lenguajes de programación:**  conocimientos básicos en Java y Python.
+- **Software:**  Visual Studio Code, IntelliJDEA, Oracle VirtualBox, Cisco Packet Tracer.
+- **Sistemas Operativos:**  conocimientos básicos en Windows y Linux.
+- **Cloud:**  (AWS (Básico): EC2, S3, Lightsail, Lambda), (Microsoft Azure (Básico): Gestión de recursos y 
+máquinas virtuales.
+- **Fundamentos de Redes y telecomunicaciones:**  Configuración de routers y switches (VLAN, OSPF, 
+asignación de IP).
 
 ## Portafolio Disponible
 # Programación
@@ -27,6 +25,8 @@ Asignación IP).
 | [Página Web con Flask](https://github.com/AldesQuintero/Flask-Project-AldesWeb) | Implementación de página web con microframework flask  | Python, Flask, HTML |
 | [Proyectos Python con API](https://github.com/AldesQuintero/Python-Projects) | Proyectos Python con aplicación de API Rest | Python, API, HTML  |
 ---
+
+# Analísis de Datos
 
 
 ## Contacto
