@@ -30,7 +30,7 @@ asignación de IP).
 # Análisis de Datos
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Análisis de salario](https://github.com/AldesQuintero/Analisis-de-Datos/blob/main/Anal%C3%ADsis%20de%20planilla%20de%20Banco%20Nacional/Analisis%20de%20Gastos%20del%20Banco%20Nacional.pdf) | Análisis de datos a planilla de BNP | Poower BI
+| [Análisis de salario](https://github.com/AldesQuintero/Analisis-de-Datos/blob/main/Anal%C3%ADsis%20de%20planilla%20de%20Banco%20Nacional/Analisis%20de%20Gastos%20del%20Banco%20Nacional.pdf) | Análisis de datos a planilla de BNP | Power BI
 ---
 
 ## Contacto
