@@ -2,13 +2,15 @@
 ## Sobre mí
 Tengo habilidades en:
 
-- **Lenguajes de programación:**  conocimientos básicos en Java y Python.
+- **Lenguajes de programación:** C, Python, Java.
 - **Software:**  Visual Studio Code, IntelliJDEA, Oracle VirtualBox, Cisco Packet Tracer.
 - **Sistemas Operativos:**  conocimientos básicos en Windows y Linux.
+- **Base de Datos:** MySWL, SQL Server, MongoDB.
 - **Cloud:**  (AWS (Básico): EC2, S3, Lightsail, Lambda), (Microsoft Azure (Básico): Gestión de recursos y 
 máquinas virtuales.
-- **Fundamentos de Redes y telecomunicaciones:**  Configuración de routers y switches (VLAN, OSPF, 
-asignación de IP).
+- **Fundamentos de Redes y telecomunicaciones:**   EC2, S3, Lightsail, Lambda), (Microsoft Azure (Básico): Gestión de recursos y 
+máquinas virtuales)
+- **Redes y telecomunicaciones:** Configuración de routers y switches (VLAN, OSPF, asignación IP).
 
 ## Portafolio Disponible
 # Programación
