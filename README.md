@@ -30,6 +30,7 @@ asignación de IP).
 # Análisis de Datos
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| [Taller Power BI 17-07-2024 ](https://github.com/AldesQuintero/Analisis-de-Datos/blob/main/Power%20BI%2017-07-2024/Taller%2017-07-2024.pdf) | Lección introductoria | Power BI
 | [Análisis de salario](https://github.com/AldesQuintero/Analisis-de-Datos/blob/main/Anal%C3%ADsis%20de%20planilla%20de%20Banco%20Nacional/Analisis%20de%20Gastos%20del%20Banco%20Nacional.pdf) | Análisis de datos a planilla de BNP (Datos al público disponible de ANTAI) | Power BI
 ---
 
