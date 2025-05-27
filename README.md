@@ -4,7 +4,7 @@ Tengo habilidades en:
 
 - **Sistemas operativos:** Windows, Linux.
 - **Lenguajes de programación:** Java, Python.
-- **Base de datos:** MySWL, PostgreSQL, MongoDB, Microsoft SQL Server.
+- **Base de datos:** MySQL, PostgreSQL, MongoDB, Microsoft SQL Server.
 - **Plataforma en la nube:** AWS (EC2, S3, Lightsail, Lambda), Microsoft Azure (gestión de recursos y máquinas virtuales).
 - **Redes:** Configuración de routers y switches (asignación IP, VLAN, OSPF).
 
