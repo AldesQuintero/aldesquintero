@@ -44,7 +44,7 @@ Explora los repositorios donde mis ideas cobran vida. Cada proyecto es una lecci
 
 ---
 
-## ✉️ `ssh contact@aldes.dev`
+## ✉️ `ssh aldesquintero@outlook.com`
 
 ¿Listo para colaborar o solo quieres decir hola? ¡Conectemos!
 
