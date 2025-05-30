@@ -1,4 +1,4 @@
-# 🚀 Aldes Quintero | Ingeniero de Sistemas y Desarrollador de Software 🚀
+# 🚀 Aldes Quintero | Licenciado en Sistemas Computacionales
 
 ¡Hola! Soy Aldes Quintero, un apasionado por la tecnología con un enfoque práctico en la creación de soluciones robustas y escalables.
 
