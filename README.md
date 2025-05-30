@@ -1,68 +1,45 @@
-```bash
-[  OK  ] Finished Hostname Service.
-[  OK  ] Reached target Network.
-[  OK  ] Started OpenBSD Secure Shell server.
-[  OK  ] Started CGroup v2 unified hierarchy.
-[  OK  ] Found device /dev/disk/by-uuid/...
-[  OK  ] Mounted /boot/efi.
-[  OK  ] Reached target Local File Systems.
-[  OK  ] Reached target Network is Online.
-[  OK  ] Started CUPS Scheduler.
-[  OK  ] Started Authorization Manager.
-[  OK  ] Started Snap Daemon.
+```python
+# 🐍 Iniciando Sesión del Sistema...
+import os, sys
+import time
 
-Login successful.
-Welcome to aldes-quintero-dev-machine.
+def boot_sequence():
+    print("\n[  OK  ] Initializing system modules...")
+    time.sleep(0.5)
+    print("[  OK  ] Loading user profile...")
+    time.sleep(0.7)
+    print("[  OK  ] Establishing secure connection...\n")
+    time.sleep(1.0)
+    
+    name_chars = "Aldes Quintero"
+    print("Welcome, ")
+    for char in name_chars:
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(0.1) # Simula el tecleo
+    print("!\n")
+    time.sleep(0.5)
+    print("🚀 Acceso Concedido a la Terminal de Desarrollo 🚀")
 
-aldes@aldes-dev:~$ echo "Initializing developer profile..."
-Initializing developer profile...
-aldes@aldes-dev:~$ whoami
-Aldes Quintero
-aldes@aldes-dev:~$ systemctl status dev-portfolio.service
-● dev-portfolio.service - Aldes Quintero's Developer Portfolio
-     Loaded: loaded (/etc/systemd/system/dev-portfolio.service; enabled; vendor preset: enabled)
-     Active: active (running) since Thu 2025-05-29 23:42:00 PHT; 1s ago
-       Docs: https://github.com/AldesQuintero
-
----
-
-### 💻 `cat /etc/profile_summary`
-
-Soy **Aldes Quintero**, un **Ingeniero de Sistemas** enfocado en la arquitectura, desarrollo y optimización de soluciones de software y plataformas en la nube. Mi expertise se centra en la construcción de sistemas robustos y eficientes que impulsan la innovación tecnológica.
-
----
-
-### 🛠️ `ls -la /opt/skillset/`
-
-* **Sistemas Operativos:** `Linux` (Administración avanzada, scripting, automatización), `Windows Server` (Infraestructura y servicios).
-* **Lenguajes de Programación:** `Java` (Desarrollo backend y empresarial), `Python` (Automatización, web, análisis de datos).
-* **Bases de Datos:** `MySQL`, `PostgreSQL`, `MongoDB`, `MS SQL Server` (Diseño, optimización y administración).
-* **Cloud Computing:** `AWS` (EC2, S3, Lambda, RDS), `Microsoft Azure` (VMs, Networking, Resource Management).
-* **Redes:** Configuración de `Routers` y `Switches` (VLANs, OSPF, VPNs).
-
----
-
-### 📂 `find /var/www/html/projects -type d -maxdepth 1`
-
-#### **Desarrollo Web (Full Stack)**
-
-| Proyecto | Descripción | Tecnologías |
-| :------- | :---------- | :---------- |
-| [AldesWeb - Spring Boot](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb) | Aplicación web con Spring Boot para gestión de contenido dinámico. | `Java`, `Spring Boot`, `HTML`, `Thymeleaf` |
-| [Dev-BackOffice-Challenge](https://github.com/AldesQuintero/Dev-BackOffice-Challenge-002-) | Solución backend modular con arquitectura por capas. | `Java`, `Spring Boot`, `MVC`, `JUnit` |
-| [AldesWeb - Flask](https://github.com/AldesQuintero/Flask-Project-AldesWeb) | Desarrollo de microservicios web y APIs REST. | `Python`, `Flask`, `REST API`, `SQLAlchemy` |
-| [Proyectos Python con API](https://github.com/AldesQuintero/Python-Projects) | Colección de proyectos Python aplicando principios de diseño API. | `Python`, `Requests`, `JSON` |
-
-#### **Análisis de Datos & BI**
-
-| Proyecto | Descripción | Herramienta |
-| :------- | :---------- | :---------- |
-| [Taller Power BI](https://github.com/AldesQuintero/Analisis-de-Datos/blob/main/Power%20BI%2017-07-2024/Taller%2017-07-2024.pdf) | Introducción a Power BI para visualización de datos. | `Power BI` |
-| [Análisis de Salario BNP](https://github.com/AldesQuintero/Analisis-de-Datos/blob/main/Anal%C3%ADsis%20de%20planilla%20de%20Banco%20Nacional/Analisis%20de%20Gastos%20del%20Banco%20Nacional.pdf) | Análisis de datos financieros públicos con Power BI. | `Power BI`, `DAX` |
-
----
-
-### ✉️ `ssh aldesquintero@secure.contact.server`
-
--   **Email:** `aldesquintero@outlook.com`
--   **LinkedIn:** [linkedin.com/in/aldesquintero](https://linkedin.com/in/aldesquintero)
+if __name__ == "__main__":
+    boot_sequence()
+    print("\n---")
+    print("## 💻 `whoami`")
+    print("Soy Aldes Quintero, un **ingeniero de sistemas** con pasión por construir y optimizar la infraestructura digital. Mi código es mi lienzo, y la eficiencia, mi pincel.")
+    print("\n---")
+    print("## 🛠️ `ls -l /tech_stack/`")
+    print("\n**Lenguajes:** `Java` (Core), `Python` (Scripting & Web), `SQL` (Data Mastery)")
+    print("**Plataformas:** `Linux` (OS & DevOps), `AWS` (Cloud Architect), `Azure` (Hybrid Solutions)")
+    print("**Bases de Datos:** `PostgreSQL`, `MongoDB`, `SQL Server` (Data Ops)")
+    print("\n---")
+    print("## 📂 `cd /projects/`")
+    print("\n| Proyecto | Descripción | Tecnologías |")
+    print("|----------|-------------|-------------|")
+    print("| [Aplicación Web - Spring Boot](https://github.com/AldesQuintero/Spring-Boot-Project-Aldesweb) | Plataforma web robusta. | `Java`, `Spring Boot`, `HTML` |")
+    print("| [API con Flask](https://github.com/AldesQuintero/Flask-Project-AldesWeb) | Microservicio eficiente. | `Python`, `Flask`, `REST API` |")
+    print("\n---")
+    print("## ✉️ `cat /etc/contact_info`")
+    print("\n- **Email:** aldesquintero@outlook.com")
+    print("- **LinkedIn:** [linkedin.com/in/aldesquintero](https://linkedin.com/in/aldesquintero)")
+    print("\n---")
+    print("[root@aldesquintero ~]# _") # Simula el cursor parpadeando
